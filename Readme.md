@@ -1,3 +1,7 @@
+> **KUBERA REFERENCE / UPSTREAM STUDY REPOSITORY**
+>
+> This repository is retained by `jobkubera-lab` for reference and engineering study. It is not presented as original KUBERA code. Original upstream authorship and licensing remain authoritative. Upstream: [hotosm/fair](https://github.com/hotosm/fair).
+
 <!-- markdownlint-disable -->
 <p align="center">
     <!-- github-banner-start -->
